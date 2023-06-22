@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-test-app",
+  "version": "1.0.0",
+  "description": "Node app using sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mr.scott.mcallister@gmail.com",
+  "license": "ISC"
+}
